@@ -1,0 +1,7 @@
+C:\Users\1386466\Desktop\pattern recog 23-01-20\pattern recog 23-01-20\obj\Debug\pattern recog 23-01-20.csprojAssemblyReference.cache
+C:\Users\1386466\Desktop\pattern recog 23-01-20\pattern recog 23-01-20\obj\Debug\pattern recog 23-01-20.csproj.CoreCompileInputs.cache
+C:\Users\1386466\Desktop\pattern recog 23-01-20\pattern recog 23-01-20\bin\Debug\pattern recog 23-01-20.exe.config
+C:\Users\1386466\Desktop\pattern recog 23-01-20\pattern recog 23-01-20\bin\Debug\pattern recog 23-01-20.exe
+C:\Users\1386466\Desktop\pattern recog 23-01-20\pattern recog 23-01-20\bin\Debug\pattern recog 23-01-20.pdb
+C:\Users\1386466\Desktop\pattern recog 23-01-20\pattern recog 23-01-20\obj\Debug\pattern recog 23-01-20.exe
+C:\Users\1386466\Desktop\pattern recog 23-01-20\pattern recog 23-01-20\obj\Debug\pattern recog 23-01-20.pdb
